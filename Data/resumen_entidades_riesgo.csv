@@ -1,0 +1,80 @@
+﻿Tipo,Entidad,Agencias_Evaluadoras,Score_Sep2025,Score_Mar2026,Score_Proj_Sep2026,Rating_Consenso_Mar2026,Rating_Consenso_Proj_Sep2026,Categoria_Riesgo_Mar2026,Categoria_Riesgo_Proj_Sep2026,Tendencia_Proyectada,Upgrades_Mar2026,Downgrades_Mar2026
+Banco,AGROBANCO,1,9.0,9.0,9.0,B+,B+,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Banco,ALFIN BANCO,2,9.0,9.5,9.75,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Positiva (Mejora),1,0
+Seguros,AuguStar Seguros,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,AVLA Perú,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,BANBIF,2,11.5,11.5,11.5,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Banco,BANCO BCI,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,BANCO DE CREDITO,3,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Banco,BANCO EFECTIVA,3,10.33,10.33,10.33,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,BANCO FALABELLA,2,10.0,10.5,10.75,A-,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Positiva (Mejora),1,0
+Banco,BANCO GNB,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,BANCO PICHINCHA,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,BANCO RIPLEY,2,9.0,9.0,9.0,B+,B+,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Banco,BANCOM,2,9.0,9.0,9.0,B+,B+,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Banco,BANK OF CHINA (PERU),3,11.0,11.33,11.33,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,BBVA,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Banco,BN. SANTANDER CONS.,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,BNP Paribas Cardif,2,11.5,11.5,11.5,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,CENTRAL  SOLIDEZ,1,,4.0,4.0,C-,C-,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,CENTRAL CIDERURAL,1,,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Seguros,Cesce,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Chubb Perú,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,CITIBANK DEL PERU,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC AREQUIPA,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC CUSCO,4,9.33,7.5,7.62,B,B,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Positiva (Mejora),1,1
+Caja Municipal de Ahorro y Crédito,CMAC DEL SANTA,2,3.5,3.5,3.5,C-,C-,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC HUANCAYO,3,9.67,9.67,9.67,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC ICA,2,8.0,9.0,9.5,B+,A-,Riesgo Moderado (B+ / B),Bajo Riesgo (A / A-),Positiva (Mejora),2,0
+Caja Municipal de Ahorro y Crédito,CMAC MAYNAS,2,7.0,7.0,7.0,B-,B-,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC PAITA,2,5.0,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC PIURA,2,8.0,8.0,8.0,B,B,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC TACNA,2,5.0,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMAC TRUJILLO,2,9.0,9.0,9.0,B+,B+,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Caja Municipal de Ahorro y Crédito,CMCP LIMA,2,6.0,6.0,6.0,C+,C+,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Banco,COFIDE,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,COMPARTAMOS BANCO,3,10.33,10.67,10.83,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Positiva (Mejora),1,0
+Caja Rural de Ahorro y Crédito,CRAC CENCOSUD SCOTIA,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Caja Rural de Ahorro y Crédito,CRAC DEL CENTRO,2,3.5,2.5,2.25,D,D,Riesgo Crítico / Estrés (D / RET),Riesgo Crítico / Estrés (D / RET),Negativa (Deterioro),0,1
+Caja Rural de Ahorro y Crédito,CRAC INCASUR,2,4.0,4.0,4.0,C-,C-,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Caja Rural de Ahorro y Crédito,CRAC LOS ANDES,2,6.5,6.5,6.5,C+,C+,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Caja Rural de Ahorro y Crédito,CRAC PRYMERA,2,5.0,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Seguros,Crecer Seguros,2,10.0,10.5,10.75,A-,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Positiva (Mejora),1,0
+Cooperativa de Ahorro y Crédito - Nivel 2 B,EFIDE,1,,8.0,8.0,B,B,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Empresa de Créditos,EMP.CRED.SANTANDER,2,10.5,10.5,10.5,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Empresa de Créditos,EMP.CRED.VIVELA,1,9.0,9.0,9.0,B+,B+,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Financiera,FINANC. PROEMPRESA,2,5.0,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Financiera,FINANCIERA CONFIANZA,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Financiera,FINANCIERA QAPAQ,3,5.0,5.33,5.33,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Financiera,FINANCIERA SURGIR,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Afianzadora y de Garantías,FOGAPI,1,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Fondo,FONDO MIVIVIENDA,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,ICBC PERU BANK S.A.,3,11.0,11.33,11.33,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Financiera,INFINANCE XP S.A.,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Insur,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,INTERBANK,2,11.5,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,1,0
+Seguros,Interseguro,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 2 B,KORI,1,,6.0,6.0,C+,C+,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Seguros,La Positiva,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,La Positiva Vida,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Liberty Seguros,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,LOS ANDES COTARUSI,1,,7.0,7.0,B-,B-,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Seguros,Mapfre Perú,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Banco,MIBANCO,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Financiera,MITSUI AUTO FINANCE,2,10.5,10.5,10.5,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Banco,NACION,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Pacífico Seguros,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Seguros,Protecta,2,11.0,11.0,11.0,A,A,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Quálitas,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Rímac Seguros,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,SAN CRISTOBAL HUAM,1,,6.0,6.0,C+,C+,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 2 B,SAN ISIDRO,1,,6.0,6.0,C+,C+,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,SAN MARTIN DE PORRES,1,,8.0,8.0,B,B,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 2 A,SAN MIGUEL LTDA,1,,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Banco,SANTANDER PERU,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Banco,SCOTIABANK PERU,2,12.0,12.0,12.0,A+,A+,Riesgo Mínimo (A+),Riesgo Mínimo (A+),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,SN CRISTO DE BAGAZÁN,1,,8.0,8.0,B,B,Riesgo Moderado (B+ / B),Riesgo Moderado (B+ / B),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 2 A,STA ISABEL PERUNORTE,1,,5.0,5.0,C,C,Alto Riesgo (C / C-),Alto Riesgo (C / C-),Estable,0,0
+Cooperativa de Ahorro y Crédito - Nivel 3,STA MA MAGDALENA,1,,6.0,6.0,C+,C+,Riesgo Medio-Alto (B- / C+),Riesgo Medio-Alto (B- / C+),Estable,0,0
+Empresa de Créditos,TOTAL SERVICIOS,1,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0
+Seguros,Vivir Seguros,2,10.0,10.0,10.0,A-,A-,Bajo Riesgo (A / A-),Bajo Riesgo (A / A-),Estable,0,0

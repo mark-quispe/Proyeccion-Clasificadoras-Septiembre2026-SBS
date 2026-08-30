@@ -1,0 +1,3873 @@
+[
+  {
+    "Tipo": "Banco",
+    "Entidad": "AGROBANCO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 9.0,
+      "Score_Proj_Sep2026": 9.0,
+      "Rating_Consenso_Mar2026": "B+",
+      "Rating_Consenso_Proj_Sep2026": "B+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "ALFIN BANCO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "↑",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A- (↑)",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "B+"
+    },
+    "Summary": {
+      "Score_Mar2026": 9.5,
+      "Score_Proj_Sep2026": 9.75,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Positiva (Mejora)"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "AuguStar Seguros",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "AVLA Perú",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANBIF",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A+"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.5,
+      "Score_Proj_Sep2026": 11.5,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO BCI",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO DE CREDITO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": "A+"
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO EFECTIVA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 10.33,
+      "Score_Proj_Sep2026": 10.33,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO FALABELLA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "↑",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+ (↑)",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.5,
+      "Score_Proj_Sep2026": 10.75,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Positiva (Mejora)"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO GNB",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO PICHINCHA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCO RIPLEY",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "PCR (Pacific Credit Rating)": "B+"
+    },
+    "Summary": {
+      "Score_Mar2026": 9.0,
+      "Score_Proj_Sep2026": 9.0,
+      "Rating_Consenso_Mar2026": "B+",
+      "Rating_Consenso_Proj_Sep2026": "B+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANCOM",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "PCR (Pacific Credit Rating)": "B+"
+    },
+    "Summary": {
+      "Score_Mar2026": 9.0,
+      "Score_Proj_Sep2026": 9.0,
+      "Rating_Consenso_Mar2026": "B+",
+      "Rating_Consenso_Proj_Sep2026": "B+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BANK OF CHINA (PERU)",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.33,
+      "Score_Proj_Sep2026": 11.33,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BBVA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "BN. SANTANDER CONS.",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "BNP Paribas Cardif",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A+"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.5,
+      "Score_Proj_Sep2026": 11.5,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "CENTRAL  SOLIDEZ",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C-",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 4.0,
+      "Score_Proj_Sep2026": 4.0,
+      "Rating_Consenso_Mar2026": "C-",
+      "Rating_Consenso_Proj_Sep2026": "C-",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "CENTRAL CIDERURAL",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Cesce",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Chubb Perú",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "CITIBANK DEL PERU",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A+"
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC AREQUIPA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A-",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC CUSCO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "↑",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "RET",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "↓",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A- (↑)",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A-",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "RET (↓)",
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 7.5,
+      "Score_Proj_Sep2026": 7.62,
+      "Rating_Consenso_Mar2026": "B",
+      "Rating_Consenso_Proj_Sep2026": "B",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Positiva (Mejora)"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC DEL SANTA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "C-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "D+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "C-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "D+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "C-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": "D+",
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 3.5,
+      "Score_Proj_Sep2026": 3.5,
+      "Rating_Consenso_Mar2026": "C-",
+      "Rating_Consenso_Proj_Sep2026": "C-",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC HUANCAYO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A-",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 9.67,
+      "Score_Proj_Sep2026": 9.67,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC ICA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "B",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B+",
+      "JCR Latino America_cambio": "↑",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": "↑"
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A- (↑)",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A- (↑)"
+    },
+    "Summary": {
+      "Score_Mar2026": 9.0,
+      "Score_Proj_Sep2026": 9.5,
+      "Rating_Consenso_Mar2026": "B+",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Positiva (Mejora)"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC MAYNAS",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "B-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "B-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "B-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "B-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 7.0,
+      "Score_Proj_Sep2026": 7.0,
+      "Rating_Consenso_Mar2026": "B-",
+      "Rating_Consenso_Proj_Sep2026": "B-",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC PAITA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": "C",
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC PIURA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "B",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "B",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": "B",
+      "Moodys Local PE Clasificadora de Riesgo": "B",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 8.0,
+      "Score_Proj_Sep2026": 8.0,
+      "Rating_Consenso_Mar2026": "B",
+      "Rating_Consenso_Proj_Sep2026": "B",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC TACNA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMAC TRUJILLO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "B+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "B+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 9.0,
+      "Score_Proj_Sep2026": 9.0,
+      "Rating_Consenso_Mar2026": "B+",
+      "Rating_Consenso_Proj_Sep2026": "B+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Municipal de Ahorro y Crédito",
+    "Entidad": "CMCP LIMA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C+",
+      "Microrate": "C+",
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 6.0,
+      "Score_Proj_Sep2026": 6.0,
+      "Rating_Consenso_Mar2026": "C+",
+      "Rating_Consenso_Proj_Sep2026": "C+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "COFIDE",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "COMPARTAMOS BANCO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "↑",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+ (↑)",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.67,
+      "Score_Proj_Sep2026": 10.83,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Positiva (Mejora)"
+    }
+  },
+  {
+    "Tipo": "Caja Rural de Ahorro y Crédito",
+    "Entidad": "CRAC CENCOSUD SCOTIA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Rural de Ahorro y Crédito",
+    "Entidad": "CRAC DEL CENTRO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "D+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "C-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "D+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "D",
+      "PCR (Pacific Credit Rating)_cambio": "↓"
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "D+",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "D (↓)"
+    },
+    "Summary": {
+      "Score_Mar2026": 2.5,
+      "Score_Proj_Sep2026": 2.25,
+      "Rating_Consenso_Mar2026": "D",
+      "Rating_Consenso_Proj_Sep2026": "D",
+      "Categoria_Riesgo_Mar2026": "Riesgo Crítico / Estrés (D / RET)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Crítico / Estrés (D / RET)",
+      "Tendencia_Proyectada": "Negativa (Deterioro)"
+    }
+  },
+  {
+    "Tipo": "Caja Rural de Ahorro y Crédito",
+    "Entidad": "CRAC INCASUR",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "C-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "C-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "C-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "C-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 4.0,
+      "Score_Proj_Sep2026": 4.0,
+      "Rating_Consenso_Mar2026": "C-",
+      "Rating_Consenso_Proj_Sep2026": "C-",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Rural de Ahorro y Crédito",
+    "Entidad": "CRAC LOS ANDES",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "B-",
+      "Microrate": "C+",
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 6.5,
+      "Score_Proj_Sep2026": 6.5,
+      "Rating_Consenso_Mar2026": "C+",
+      "Rating_Consenso_Proj_Sep2026": "C+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Caja Rural de Ahorro y Crédito",
+    "Entidad": "CRAC PRYMERA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Crecer Seguros",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": "↑"
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": "A+ (↑)"
+    },
+    "Summary": {
+      "Score_Mar2026": 10.5,
+      "Score_Proj_Sep2026": 10.75,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Positiva (Mejora)"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 2 B",
+    "Entidad": "EFIDE",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "B",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 8.0,
+      "Score_Proj_Sep2026": 8.0,
+      "Rating_Consenso_Mar2026": "B",
+      "Rating_Consenso_Proj_Sep2026": "B",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Empresa de Créditos",
+    "Entidad": "EMP.CRED.SANTANDER",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.5,
+      "Score_Proj_Sep2026": 10.5,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Empresa de Créditos",
+    "Entidad": "EMP.CRED.VIVELA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "B+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "B+"
+    },
+    "Summary": {
+      "Score_Mar2026": 9.0,
+      "Score_Proj_Sep2026": 9.0,
+      "Rating_Consenso_Mar2026": "B+",
+      "Rating_Consenso_Proj_Sep2026": "B+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Financiera",
+    "Entidad": "FINANC. PROEMPRESA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Apoyo y Asociados Internacionales_cambio": "↓",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "↓",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "C",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Financiera",
+    "Entidad": "FINANCIERA CONFIANZA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Financiera",
+    "Entidad": "FINANCIERA QAPAQ",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "C",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "C+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "C",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "C+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "C",
+      "PCR (Pacific Credit Rating)": "C"
+    },
+    "Summary": {
+      "Score_Mar2026": 5.33,
+      "Score_Proj_Sep2026": 5.33,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Financiera",
+    "Entidad": "FINANCIERA SURGIR",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Afianzadora y de Garantías",
+    "Entidad": "FOGAPI",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Fondo",
+    "Entidad": "FONDO MIVIVIENDA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "ICBC PERU BANK S.A.",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.33,
+      "Score_Proj_Sep2026": 11.33,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Financiera",
+    "Entidad": "INFINANCE XP S.A.",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A-",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Insur",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "INTERBANK",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "↑",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+ (↑)",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Interseguro",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": "A+"
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 2 B",
+    "Entidad": "KORI",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C+",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": "C+",
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 6.0,
+      "Score_Proj_Sep2026": 6.0,
+      "Rating_Consenso_Mar2026": "C+",
+      "Rating_Consenso_Proj_Sep2026": "C+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "La Positiva",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "La Positiva Vida",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Liberty Seguros",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "LOS ANDES COTARUSI",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "B-",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 7.0,
+      "Score_Proj_Sep2026": 7.0,
+      "Rating_Consenso_Mar2026": "B-",
+      "Rating_Consenso_Proj_Sep2026": "B-",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Mapfre Perú",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": "A+"
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "MIBANCO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Financiera",
+    "Entidad": "MITSUI AUTO FINANCE",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.5,
+      "Score_Proj_Sep2026": 10.5,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "NACION",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Pacífico Seguros",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Protecta",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A",
+      "PCR (Pacific Credit Rating)": "A"
+    },
+    "Summary": {
+      "Score_Mar2026": 11.0,
+      "Score_Proj_Sep2026": 11.0,
+      "Rating_Consenso_Mar2026": "A",
+      "Rating_Consenso_Proj_Sep2026": "A",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Quálitas",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Rímac Seguros",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "SAN CRISTOBAL HUAM",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "C+",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "C+"
+    },
+    "Summary": {
+      "Score_Mar2026": 6.0,
+      "Score_Proj_Sep2026": 6.0,
+      "Rating_Consenso_Mar2026": "C+",
+      "Rating_Consenso_Proj_Sep2026": "C+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 2 B",
+    "Entidad": "SAN ISIDRO",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C+",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 6.0,
+      "Score_Proj_Sep2026": 6.0,
+      "Rating_Consenso_Mar2026": "C+",
+      "Rating_Consenso_Proj_Sep2026": "C+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "SAN MARTIN DE PORRES",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "B",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 8.0,
+      "Score_Proj_Sep2026": 8.0,
+      "Rating_Consenso_Mar2026": "B",
+      "Rating_Consenso_Proj_Sep2026": "B",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 2 A",
+    "Entidad": "SAN MIGUEL LTDA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "SANTANDER PERU",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Banco",
+    "Entidad": "SCOTIABANK PERU",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": "A+",
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A+",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 12.0,
+      "Score_Proj_Sep2026": 12.0,
+      "Rating_Consenso_Mar2026": "A+",
+      "Rating_Consenso_Proj_Sep2026": "A+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Mínimo (A+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Mínimo (A+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "SN CRISTO DE BAGAZÁN",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "B",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "B",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 8.0,
+      "Score_Proj_Sep2026": 8.0,
+      "Rating_Consenso_Mar2026": "B",
+      "Rating_Consenso_Proj_Sep2026": "B",
+      "Categoria_Riesgo_Mar2026": "Riesgo Moderado (B+ / B)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Moderado (B+ / B)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 2 A",
+    "Entidad": "STA ISABEL PERUNORTE",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "C",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": "C",
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 5.0,
+      "Score_Proj_Sep2026": 5.0,
+      "Rating_Consenso_Mar2026": "C",
+      "Rating_Consenso_Proj_Sep2026": "C",
+      "Categoria_Riesgo_Mar2026": "Alto Riesgo (C / C-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Alto Riesgo (C / C-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Cooperativa de Ahorro y Crédito - Nivel 3",
+    "Entidad": "STA MA MAGDALENA",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "C+",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "C+",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 6.0,
+      "Score_Proj_Sep2026": 6.0,
+      "Rating_Consenso_Mar2026": "C+",
+      "Rating_Consenso_Proj_Sep2026": "C+",
+      "Categoria_Riesgo_Mar2026": "Riesgo Medio-Alto (B- / C+)",
+      "Categoria_Riesgo_Proj_Sep2026": "Riesgo Medio-Alto (B- / C+)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Empresa de Créditos",
+    "Entidad": "TOTAL SERVICIOS",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "A-",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": NaN,
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": NaN,
+      "PCR (Pacific Credit Rating)": "A-"
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  },
+  {
+    "Tipo": "Seguros",
+    "Entidad": "Vivir Seguros",
+    "Sep2025": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "Mar2026": {
+      "Apoyo y Asociados Internacionales": "",
+      "Apoyo y Asociados Internacionales_cambio": "",
+      "Class y Asociados S.A.": "",
+      "Class y Asociados S.A._cambio": "",
+      "JCR Latino America": "A-",
+      "JCR Latino America_cambio": "",
+      "Microrate": "",
+      "Microrate_cambio": "",
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "Moodys Local PE Clasificadora de Riesgo_cambio": "",
+      "PCR (Pacific Credit Rating)": "",
+      "PCR (Pacific Credit Rating)_cambio": ""
+    },
+    "ProjSep2026": {
+      "Apoyo y Asociados Internacionales": NaN,
+      "Class y Asociados S.A.": NaN,
+      "JCR Latino America": "A-",
+      "Microrate": NaN,
+      "Moodys Local PE Clasificadora de Riesgo": "A-",
+      "PCR (Pacific Credit Rating)": NaN
+    },
+    "Summary": {
+      "Score_Mar2026": 10.0,
+      "Score_Proj_Sep2026": 10.0,
+      "Rating_Consenso_Mar2026": "A-",
+      "Rating_Consenso_Proj_Sep2026": "A-",
+      "Categoria_Riesgo_Mar2026": "Bajo Riesgo (A / A-)",
+      "Categoria_Riesgo_Proj_Sep2026": "Bajo Riesgo (A / A-)",
+      "Tendencia_Proyectada": "Estable"
+    }
+  }
+]
