@@ -13,7 +13,7 @@ def generate_dashboard():
 <head>
   <meta charset="UTF-8">
   <title>SBS - Clasificaciones e Informes Semestrales Proyectados (Tema Nord)</title>
-  <script src="https://www.gstatic.com/antigravity/web/dev/tailwindcss.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
   <style>
     :root {{
       /* Nord Color Palette Theme */
